@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B4F748F1-E8CF-408C-9AA9-CCC82BCF5B31"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42C8D5C5-1024-4DB1-A4AA-FC31770DEA50"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextClassifier/SpeechRecognizer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "record()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "42C8D5C5-1024-4DB1-A4AA-FC31770DEA50 - d9aa89e590f4fd6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;__C.SFSpeechRecognitionResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TextClassifier.SpeechRecognizer.record() -&gt; ()"
+                  moduleName = "TextClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedel-sayed/Downloads/mediapipe-main/examples/text_classification/ios/TextClassifier/SpeechRecognizer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "42C8D5C5-1024-4DB1-A4AA-FC31770DEA50 - d9aa89e590f4fd4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;__C.SFSpeechRecognitionResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TextClassifier.SpeechRecognizer.record() -&gt; ()"
+                  moduleName = "TextClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedel-sayed/Downloads/mediapipe-main/examples/text_classification/ios/TextClassifier/SpeechRecognizer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D704BAB-7690-4C59-921D-7AA18F7E8E69"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextClassifier/SpeechRecognizer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "record()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D704BAB-7690-4C59-921D-7AA18F7E8E69 - 75887e10b65a67a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextClassifier.SpeechRecognizer.record() -&gt; ()"
+                  moduleName = "TextClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedel-sayed/Downloads/mediapipe-main/examples/text_classification/ios/TextClassifier/SpeechRecognizer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "1940">
+               </Location>
+               <Location
+                  uuid = "8D704BAB-7690-4C59-921D-7AA18F7E8E69 - 75887e10b65a67a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextClassifier.SpeechRecognizer.record() -&gt; ()"
+                  moduleName = "TextClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedel-sayed/Downloads/mediapipe-main/examples/text_classification/ios/TextClassifier/SpeechRecognizer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "1900">
+               </Location>
+               <Location
+                  uuid = "8D704BAB-7690-4C59-921D-7AA18F7E8E69 - 75887e10b65a6743"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextClassifier.SpeechRecognizer.record() -&gt; ()"
+                  moduleName = "TextClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedel-sayed/Downloads/mediapipe-main/examples/text_classification/ios/TextClassifier/SpeechRecognizer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "2444">
+               </Location>
+               <Location
+                  uuid = "8D704BAB-7690-4C59-921D-7AA18F7E8E69 - 75887e10b65a6743"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextClassifier.SpeechRecognizer.record() -&gt; ()"
+                  moduleName = "TextClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedel-sayed/Downloads/mediapipe-main/examples/text_classification/ios/TextClassifier/SpeechRecognizer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "2472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE602FA7-61D5-4F6D-9EF4-2F5D52436331"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextClassifier/SpeechRecognizer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "startRecording(textHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2900A826-FE10-459B-82A8-391593E8B0E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextClassifier/SpeechRecognizer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "record()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2900A826-FE10-459B-82A8-391593E8B0E5 - 75887e10b65a623f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextClassifier.SpeechRecognizer.record() -&gt; ()"
+                  moduleName = "TextClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedel-sayed/Downloads/mediapipe-main/examples/text_classification/ios/TextClassifier/SpeechRecognizer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "1580">
+               </Location>
+               <Location
+                  uuid = "2900A826-FE10-459B-82A8-391593E8B0E5 - 75887e10b65a623f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextClassifier.SpeechRecognizer.record() -&gt; ()"
+                  moduleName = "TextClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedel-sayed/Downloads/mediapipe-main/examples/text_classification/ios/TextClassifier/SpeechRecognizer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "1540">
+               </Location>
+               <Location
+                  uuid = "2900A826-FE10-459B-82A8-391593E8B0E5 - 75887e10b65a623f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextClassifier.SpeechRecognizer.record() -&gt; ()"
+                  moduleName = "TextClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedel-sayed/Downloads/mediapipe-main/examples/text_classification/ios/TextClassifier/SpeechRecognizer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "1920">
+               </Location>
+               <Location
+                  uuid = "2900A826-FE10-459B-82A8-391593E8B0E5 - 75887e10b65a623f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextClassifier.SpeechRecognizer.record() -&gt; ()"
+                  moduleName = "TextClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedel-sayed/Downloads/mediapipe-main/examples/text_classification/ios/TextClassifier/SpeechRecognizer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "1948">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D2E8842-42F4-4BD2-9B82-89FB9916E76C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextClassifier/SpeechRecognizer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "stopRecording()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D2E8842-42F4-4BD2-9B82-89FB9916E76C - 8d31d58222f5ee8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextClassifier.SpeechRecognizer.stopRecording() -&gt; ()"
+                  moduleName = "TextClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedel-sayed/Downloads/mediapipe-main/examples/text_classification/ios/TextClassifier/SpeechRecognizer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "3D2E8842-42F4-4BD2-9B82-89FB9916E76C - 8d31d58222f5ee69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextClassifier.SpeechRecognizer.stopRecording() -&gt; ()"
+                  moduleName = "TextClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedel-sayed/Downloads/mediapipe-main/examples/text_classification/ios/TextClassifier/SpeechRecognizer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

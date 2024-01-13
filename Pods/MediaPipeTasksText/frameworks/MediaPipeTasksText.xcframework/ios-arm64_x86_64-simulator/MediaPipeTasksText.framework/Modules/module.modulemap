@@ -1,0 +1,14 @@
+framework module MediaPipeTasksText {
+  umbrella header "MediaPipeTasksText.h"
+  export *
+  module * { export * }
+  link "dl"
+  link "m"
+  link "pthread"
+  link framework "Accelerate"
+  link framework "CoreFoundation"
+  link framework "CoreGraphics"
+  link framework "CoreVideo"
+  link framework "MetalKit"
+  link framework "OpenGLES"
+}
